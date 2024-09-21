@@ -1,7 +1,8 @@
 # **RockPaperScissorsBySimeon**
 **Python project for Rock–Paper–Scissors game**
-![rock paper scissors](https://images.squarespace-cdn.com/content/v1/618037d25050485b61e7f62d/271f0feb-c872-4eb6-b918-3e9c8e38443c/Rock+Paper+Scissors+Logo.png?format=1500w)  
-**Overview**  
+![rock paper scissors](https://images.squarespace-cdn.com/content/v1/618037d25050485b61e7f62d/271f0feb-c872-4eb6-b918-3e9c8e38443c/Rock+Paper+Scissors+Logo.png?format=1500w)
+
+**Overview**
 Rock, Paper, Scissors is a simple hand game usually played between two people. Each player simultaneously forms one of three shapes with an outstretched hand.  
 The possible shapes are:  
 - _Rock_ (a fist)  
