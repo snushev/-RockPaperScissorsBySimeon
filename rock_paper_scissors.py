@@ -16,7 +16,7 @@ scissors = "Scissors"
 player_score = 0
 computer_score = 0
 
-print(f"{ORANGE}Welcome to the Rock-Paper-Scissors Game!{RESET}")
+print(f"{YELLOW}Welcome to the Rock-Paper-Scissors Game!{RESET}")
 
 while True:
     player_move = input(f"{GREEN}Choose {BLUE}[r]{RESET}ock, {BLUE}[p]{RESET}aper, {BLUE}[s]{RESET}cissors: ")
